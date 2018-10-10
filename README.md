@@ -5,8 +5,7 @@ This is *trial* [repository](https://github.com/Platoniux/platoniux.github.io "P
 
 ### Content
 
-1. index.html  
-2. lib  
-  * hello.html  
-  * style.css  
-3. README.md  
+| Language | Name | Number of files |
+|---------------|---------|--------------------|
+|HTML| index, hello| 2
+| CSS | style| 1|
