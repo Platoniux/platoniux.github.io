@@ -7,4 +7,4 @@ This is *trial* [repository](https://github.com/Platoniux/platoniux.github.io "P
 | Language | Name | Number of files |
 |---------------|---------|--------------------|
 |HTML| index, hello| 2|
-| CSS | style| 1|
+| CSS | style | 1|
