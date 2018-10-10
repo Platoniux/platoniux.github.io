@@ -6,5 +6,5 @@ This is *trial* [repository](https://github.com/Platoniux/platoniux.github.io "P
 ###Content
 | Language | Name | Number of files |
 |---------------|---------|--------------------|
-|HTML| index, hello| 2
+|HTML| index, hello| 2|
 | CSS | style| 1|
